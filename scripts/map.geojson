@@ -21,7 +21,11 @@ var geoJson = [{
     {
       "type": "Feature",
       "properties": {
+<<<<<<< HEAD
         "title": “Koeningsplatz”,
+=======
+        "title": "Koeningsplatz",
+>>>>>>> FETCH_HEAD
         "marker-size": "medium",
 	"marker-color": "#e5c278",
 	"marker-symbol": "star-stroked",
