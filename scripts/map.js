@@ -1,6 +1,6 @@
 // code adapted from https://www.mapbox.com/mapbox.js/example/v1.0.0/markers-with-image-slideshow/
 
-var map = L.mapbox.map('map', 'vulibrarygis.l36anlai') 
+var map = L.mapbox.map('map', 'vulibrarygis.l36anlai')
 // Construct a bounding box for this map that the user cannot
 // move out of
 var southWest = L.latLng(52.4934, 13.45867),
